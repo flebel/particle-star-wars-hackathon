@@ -13,3 +13,10 @@ I needed to get notified of events through visual and audible feedbacks, regardl
 
 The Particle Internet Button was chosen for its ease of use and pre-wired 11 LEDs, buzzer and buttons.
 
+Alternative use
+===============
+
+I find the Particle Internet Button extremely useful with LittleSleeper, to monitor noise level around a baby crib. Using the `littlesleeper_notifier.py`, the Particle Internet Button displays the noise intensity as a progressive a LED circle.
+https://github.com/flebel/iot-projects/blob/master/littlesleeper/littlesleeper_notifier.py
+https://github.com/NeilYager/LittleSleeper
+
