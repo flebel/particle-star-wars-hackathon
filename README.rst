@@ -24,7 +24,7 @@ If you will be triggering notifications from multiple devices, you might want to
 Alternative use
 ===============
 
-I find the Particle Internet Button extremely useful with LittleSleeper_, to monitor noise level around a baby crib. Using littlesleeper_notifier.py_, the Particle Internet Button displays the noise intensity as a progressive a LED circle.
+I find the Particle Internet Button extremely useful with LittleSleeper_, to monitor noise level around a baby crib. Using littlesleeper_notifier.py_, the Particle Internet Button displays the noise intensity as a progressive LED circle.
 
 .. _Embassy: https://github.com/flebel/embassy
 .. _LittleSleeper: https://github.com/NeilYager/LittleSleeper
